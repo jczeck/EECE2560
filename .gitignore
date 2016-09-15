@@ -30,4 +30,5 @@
 
 # Debug folders
 Debug/
+Release/
 .vs/
