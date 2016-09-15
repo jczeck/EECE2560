@@ -1,0 +1,1 @@
+Using a hash table has the fastest lookup times as well as the fastest search times. On average, insertion sort has a much larger sort time, on the scale of 100 times longer to sort. Quick sort is the fastest sorting time excluding using a hash table. It is followed by merge sort and then heap sort.
